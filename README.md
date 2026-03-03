@@ -7,3 +7,10 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
+### Estrutura do Projeto
+
+    audio/: Pasta contendo o áudio final do podcast, gerado a partir de texto e editado com a ferramenta CapCut.
+
+    imagens/: Pasta com as imagens da capa e do primeiro episódio, criada por IA generativa.
+
+    prompts/: Pasta que armazena os prompts usado para solicitar o podcast ao ChatGPC e Copilot.
