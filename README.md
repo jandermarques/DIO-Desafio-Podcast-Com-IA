@@ -17,10 +17,10 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 ### Ferramentas Utiizadas
 
-   ChatGPT: O ChatGPT é uma ferramenta de inteligência artificial generativa baseada em linguagem, desenvolvida pela OpenAI, que conversa de forma natural e humana.
+    ChatGPT: O ChatGPT é uma ferramenta de inteligência artificial generativa baseada em linguagem, desenvolvida pela OpenAI, que conversa de forma natural e humana.
 
-   Copilot: O Microsoft Copilot é um assistente virtual baseado em inteligência artificial generativa, integrado aos produtos Microsoft (Windows, Edge, 365) e disponível via web.
+    Copilot: O Microsoft Copilot é um assistente virtual baseado em inteligência artificial generativa, integrado aos produtos Microsoft (Windows, Edge, 365) e disponível via web.
 
-   ElevenLabs: ElevenLabs é uma plataforma de tecnologia líder no campo de inteligência artificial de voz e síntese de fala (text-to-speech).
+    ElevenLabs: ElevenLabs é uma plataforma de tecnologia líder no campo de inteligência artificial de voz e síntese de fala (text-to-speech).
 
-   CapCut: O CapCut é um editor de vídeos gratuito, intuitivo e completo, desenvolvido pela Bytedance (criadora do TikTok).
+    CapCut: O CapCut é um editor de vídeos gratuito, intuitivo e completo, desenvolvido pela Bytedance (criadora do TikTok).
